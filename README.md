@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25FF00&size=35&center=true&vCenter=true&width=1000&lines=MY+NAME+is+Murilo+Augusto+Estevam+Francisco+Vieira;I+study+analysis+and+systems+development+at+Unip;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloAEFV&show_icons=true&count_private=true&hide_border=true&title_color=25FF00&icon_color=25FF00&text_color=c9d1d9&bg_color=0d1117" alt="MuriloAEFV github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAEFV&layout=compact&hide_border=true&title_color=25FF00&text_color=25FF00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloAEFV&show_icons=true&count_private=true&hide_border=true&title_color=25FF00&icon_color=25FF00&text_color=FFFFFF&bg_color=0d1117" alt="MuriloAEFV github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAEFV&layout=compact&hide_border=true&title_color=25FF00&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuriloAEFV&bg_color=000000&color=25FF00&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
