@@ -10,7 +10,7 @@
 
 ### Sobre Mim
 
-👋 Olá! Sou um Desenvolvedor Backend Pleno apaixonado por criar soluções eficientes e escaláveis. Meu foco principal está no desenvolvimento de APIs RESTful e na arquitetura de sistemas robustos, utilizando tecnologias como **Node.js** e **C#/.NET**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na UNIP** para aprimorar minha base teórica e conectá-la com a prática do mercado.
+👋 Olá! Sou um Desenvolvedor Backend apaixonado por criar soluções eficientes e escaláveis. Meu foco principal está no desenvolvimento de APIs RESTful e na arquitetura de sistemas robustos, utilizando tecnologias como **Node.js** e **C#/.NET**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na UNIP** para aprimorar minha base teórica e conectá-la com a prática do mercado.
 
 ---
 
