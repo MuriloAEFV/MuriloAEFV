@@ -1,53 +1,52 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25FF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25FF00&size=35&center=true&vCenter=true&width=1000&lines=MY+NAME+is+Murilo+Augusto+Estevam+Francisco+Vieira;I+study+analysis+and+systems+development+at+Unip;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloAEFV&show_icons=true&count_private=true&hide_border=true&title_color=25FF00&icon_color=25FF00&text_color=FFFFFF&bg_color=0d1117" alt="MuriloAEFV github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAEFV&layout=compact&hide_border=true&title_color=25FF00&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=red&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c++&logoColor=purple&labelColor=0D1117)&nbsp; 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![CodeBlock](https://img.shields.io/badge/-CodeBlock-0D1117?style=for-the-badge&logo=codeblock&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![PostgreSql](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgreSQL&labelColor=0D1117)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
-![SSMS](https://img.shields.io/badge/-SSMS-0D1117?style=for-the-badge&logo=ssms&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=0D1117)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Murilo+Augusto!;Desenvolvedor+Backend;Focado+em+construir+APIs+robustas+e+escaláveis;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MuriloAEFV}/count.svg" /></p> 
-<br></div>
+  <a href="https://www.linkedin.com/in/murilo-augusto-a7803a258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25FF00&height=120&section=footer"/>
+### Sobre Mim
 
+👋 Olá! Sou um Desenvolvedor Backend Pleno apaixonado por criar soluções eficientes e escaláveis. Meu foco principal está no desenvolvimento de APIs RESTful e na arquitetura de sistemas robustos, utilizando tecnologias como **Node.js** e **C#/.NET**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na UNIP** para aprimorar minha base teórica e conectá-la com a prática do mercado.
+
+---
+
+### 🚀 Atualmente, estou aprofundando meus conhecimentos em:
+* **Arquitetura de Microsserviços:** Padrões de comunicação e resiliência.
+* **Docker & Contêineres:** Para otimizar ambientes de desenvolvimento e produção.
+* **Testes Automatizados (TDD/BDD):** Garantindo a qualidade e manutenibilidade do software.
+
+### 💻 Tech Stack
+
+<div align="center">
+  <h4>Backend</h4>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>&nbsp;
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>&nbsp;
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>&nbsp;
+  
+  <h4>Bancos de Dados</h4>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+  
+  <h4>Frontend (Conhecimentos)</h4>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
+
+  <h4>Ferramentas & Plataformas</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;
+</div>
