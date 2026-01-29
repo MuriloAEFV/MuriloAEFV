@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=180&section=header&text=AI-Powered%20Developer&fontSize=40&fontColor=00D9FF&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=180&section=header&text=Full%20Stack%20Pleno%20Development&fontSize=40&fontColor=00D9FF&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=⚡+Murilo+Augusto+%7C+Full+Stack+Engineer;🤖+Especialista+em+IA+e+Cloud+Computing;🚀+Arquitetura+de+Microsserviços+%26+DevOps;💡+Transformando+Dados+em+Inteligência;🌐+Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=⚡+Murilo+Augusto+%7C+Full+Stack+Engineer+Pleno;☁️+Cloud+Computing+%26+Arquitetura+de+Software;🚀+Microsserviços+%7C+DevOps+%7C+CI/CD;💡+Transformando+Ideias+em+Soluções+Escaláveis;🌐+Building+Scalable+Systems)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/murilo-augusto-a7803a258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-00D9FF?style=for-the-badge&logo=robot&logoColor=black" alt="AI">
-  <img src="https://img.shields.io/badge/Cloud%20Expert-0089D6?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud">
+  <img src="https://img.shields.io/badge/Full%20Stack-00D9FF?style=for-the-badge&logo=stackshare&logoColor=black" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0089D6?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud">
 </div>
 
 <div align="center">
@@ -23,28 +23,20 @@ class FullStackDeveloper:
     def __init__(self):
         self.name = "Murilo Augusto"
         self.role = "Full Stack Engineer Pleno"
-        self.expertise = ["Backend", "Frontend", "Cloud", "AI/ML", "DevOps"]
+        self.expertise = ["Backend", "Frontend", "Cloud", "DevOps"]
+        self.knowledge = ["IA/ML", "Microservices", "Event-Driven"]
         self.mindset = "Inovação + Performance + Escalabilidade"
     
     def build_future(self):
-        return "Desenvolvendo soluções inteligentes que transformam negócios"
+        return "Desenvolvendo soluções escaláveis que transformam negócios"
 ```
 
-Engenheiro de software com **domínio em IA** e experiência em arquitetar **sistemas distribuídos de alta performance**. Especialista em construir **aplicações full-stack** integradas com **inteligência artificial**, otimizadas para **cloud** e preparadas para escala.
+Engenheiro de software com **conhecimento em IA** e experiência em arquitetar **sistemas distribuídos de alta performance**. Especialista em construir **aplicações full-stack** modernas, otimizadas para **cloud** e preparadas para escala.
 
 ### 🎯 **Core Skills**
 
 <table>
 <tr>
-<td width="50%">
-
-**🤖 Inteligência Artificial**
-- Integração de modelos de IA
-- Processamento de linguagem natural
-- Machine Learning pipelines
-- Automação inteligente
-
-</td>
 <td width="50%">
 
 **☁️ Cloud Native Architecture**
@@ -54,8 +46,6 @@ Engenheiro de software com **domínio em IA** e experiência em arquitetar **sis
 - Infrastructure as Code
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **⚡ Backend Engineering**
@@ -65,6 +55,8 @@ Engenheiro de software com **domínio em IA** e experiência em arquitetar **sis
 - High availability systems
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🎨 Frontend & UX**
@@ -74,19 +66,27 @@ Engenheiro de software com **domínio em IA** e experiência em arquitetar **sis
 - Mobile-first approach
 
 </td>
+<td width="50%">
+
+**🤖 IA & Automação**
+- Conhecimento em IA/ML
+- Integração de soluções inteligentes
+- Automação de processos
+- Análise de dados
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🧠 Tech Stack - AI-Powered Development
+## 🧠 Tech Stack - Modern Development
 
 <div align="center">
 
-### **🤖 Artificial Intelligence & Automation**
-![AI](https://img.shields.io/badge/Artificial_Intelligence-00D9FF?style=for-the-badge&logo=brain&logoColor=black)
-![ML](https://img.shields.io/badge/Machine_Learning-0089D6?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Automation](https://img.shields.io/badge/Intelligent_Automation-0066CC?style=for-the-badge&logo=robot&logoColor=white)
+### **🤖 IA & Automation**
+![AI](https://img.shields.io/badge/AI%2FML-00D9FF?style=for-the-badge&logo=brain&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-0089D6?style=for-the-badge&logo=robot&logoColor=white)
 
 ### **⚡ Backend & Microservices**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -134,31 +134,24 @@ Engenheiro de software com **domínio em IA** e experiência em arquitetar **sis
 
 ---
 
-## 🚀 Neural Network - Expertise & Architecture
+## 🚀 Expertise & Architecture
 
 ```typescript
-interface AIEngineer {
+interface FullStackEngineer {
     architecture: string[];
-    aiCapabilities: string[];
     cloudExpertise: string[];
     devPractices: string[];
+    aiKnowledge: string[];
     currentMission: string;
 }
 
-const muriloAugusto: AIEngineer = {
+const muriloAugusto: FullStackEngineer = {
     architecture: [
         "🔷 Microservices & Distributed Systems",
         "🔷 Event-Driven Architecture",
         "🔷 Clean Architecture & DDD",
         "🔷 Serverless Computing",
-        "🔷 S.O.L.I.D"
-    ],
-    
-    aiCapabilities: [
-        "🤖 AI/ML Integration & Deployment",
-        "🤖 Intelligent Automation Systems",
-        "🤖 Natural Language Processing",
-        "🤖 Predictive Analytics Pipelines"
+        "🔷 S.O.L.I.D Principles"
     ],
     
     cloudExpertise: [
@@ -176,7 +169,13 @@ const muriloAugusto: AIEngineer = {
         "⚡ Real-time Data Processing"
     ],
     
-    currentMission: "🎯 Building intelligent, scalable solutions that bridge AI and human needs"
+    aiKnowledge: [
+        "🤖 Integração com IA/ML",
+        "🤖 Automação Inteligente",
+        "🤖 Análise de Dados"
+    ],
+    
+    currentMission: "🎯 Building scalable and innovative solutions"
 };
 ```
 
@@ -186,8 +185,8 @@ const muriloAugusto: AIEngineer = {
 
 ```diff
 + Clean Code & SOLID Principles
-+ AI-First Development Approach
 + Cloud-Native Architecture
++ Test-Driven Development
 + Continuous Learning & Adaptation
 + Performance-Driven Solutions
 ```
@@ -209,7 +208,7 @@ const muriloAugusto: AIEngineer = {
 
 ---
 
-## 🧬 Development Philosophy - AI-Driven Excellence
+## 🧬 Development Philosophy
 
 <div align="center">
 
@@ -234,17 +233,17 @@ Code Quality:
   - Code reviews and pair programming
   - Continuous refactoring
 
-AI Integration:
-  - AI-first approach in problem solving
-  - Intelligent automation wherever possible
-  - Data-driven decision making
-  - Machine learning pipeline optimization
-
 Cloud & Scale:
   - Cloud-native design patterns
   - Horizontal scalability by default
   - High availability and fault tolerance
   - Cost optimization strategies
+
+Modern Technologies:
+  - Microservices architecture
+  - Event-driven systems
+  - Real-time data processing
+  - Knowledge in AI/ML integration
 
 User Experience:
   - Performance is a feature
@@ -254,7 +253,7 @@ User Experience:
 
 Continuous Evolution:
   - Stay updated with emerging technologies
-  - Embrace new AI/ML paradigms
+  - Embrace new paradigms and best practices
   - Share knowledge with the community
   - Never stop learning and experimenting
 ```
@@ -268,7 +267,9 @@ Continuous Evolution:
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00D9FF?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Collaboration-Welcome-0089D6?style=for-the-badge" alt="Collaboration"/>
 
-**Sempre disponível para colaborações**
+<br>
+
+**💼 Aberto a novos desafios e oportunidades de colaboração**
 
 <br>
 
