@@ -150,7 +150,8 @@ const muriloAugusto: AIEngineer = {
         "🔷 Microservices & Distributed Systems",
         "🔷 Event-Driven Architecture",
         "🔷 Clean Architecture & DDD",
-        "🔷 Serverless Computing"
+        "🔷 Serverless Computing",
+        "🔷 S.O.L.I.D"
     ],
     
     aiCapabilities: [
