@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=180&section=header&text=Full%20Stack%20Pleno%20Development&fontSize=40&fontColor=00D9FF&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=180&section=header&text=Full%20Stack%20Development&fontSize=40&fontColor=00D9FF&animation=twinkling"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=⚡+Murilo+Augusto+%7C+Full+Stack+Engineer+Pleno;☁️+Cloud+Computing+%26+Arquitetura+de+Software;🚀+Microsserviços+%7C+DevOps+%7C+CI/CD;💡+Transformando+Ideias+em+Soluções+Escaláveis;🌐+Building+Scalable+Systems)](https://git.io/typing-svg)
 
